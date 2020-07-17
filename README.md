@@ -1,6 +1,6 @@
-### Selam 👋
+## Selam 👋
 
-Ben ***Emre YILMAZ***, bilgi güvenliği teknolojisi okuyorum. @kernelblog/kernelblog kurucusuyum.
+Ben ***Emre YILMAZ***, bilgi güvenliği teknolojisi okuyorum. [kernelblog](http://github.com/kernelblog) kurucusuyum.
 
 - 🔭 Projelerim...
 
@@ -9,9 +9,8 @@ Ben ***Emre YILMAZ***, bilgi güvenliği teknolojisi okuyorum. @kernelblog/kerne
 
 - 📫 İletişim: ... 
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fs0lidnight) <br>
+[Twitter](https://twitter.com/s0lidnight)<br>
+[LinkedIn](https://www.linkedin.com/in/delosemre)<br>
+[İnstagram](https://instagram.com/delosemree)
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
