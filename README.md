@@ -9,8 +9,9 @@ Ben ***Emre YILMAZ***, bilgi güvenliği teknolojisi okuyorum. @kernelblog/kerne
 
 - 📫 İletişim: ... 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/S0lidNight?label=Takip%20Et&style=social) <br>
+![Twitter Follow](https://twitter.com/S0lidNight) <br>
 ![GitHub followers](https://img.shields.io/github/followers/delosemre?style=social)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
