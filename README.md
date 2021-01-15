@@ -1,12 +1,12 @@
 ## Selam 👋
 
-Ben ***Emre YILMAZ***, bilgi güvenliği teknolojisi okuyorum.
-- 🔭 My projects...
+Ben ***Emre YILMAZ***, Bilişim Güvenliği Teknolojisi Okuyorum.
+### 🔭 My projects...
 
 [KernelBlog](http://kernelblog.org) <br>
 [SiberTool](https://sibertool.com)
 
-- 📫 Social: ... 
+###  📫 Social: ... 
 <center>
 <a href="https://www.twitter.com/s0lidNight"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue"></a> 
   
