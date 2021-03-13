@@ -1,6 +1,6 @@
-## Selam 👋
+## Hi 👋
 
-Ben ***Emre YILMAZ***, Bilişim Güvenliği Teknolojisi Okuyorum.
+I am ***Emre YILMAZ***, I am studying Information Security Technology.
 ### 🔭 My projects...
 
 [KernelBlog](http://kernelblog.org) <br>
