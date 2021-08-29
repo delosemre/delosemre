@@ -23,5 +23,5 @@ I am ***Emre YILMAZ***, I am studying Information Security Technology.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delosemre&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![Snake animation](https://raw.githubusercontent.com/delosemre/resimler/af3720a5380e63450ed29fb14d1b215a22bd6169/delos.svg)
+<img height="180em" src="https://raw.githubusercontent.com/delosemre/resimler/af3720a5380e63450ed29fb14d1b215a22bd6169/delos.svg"/> 
 
