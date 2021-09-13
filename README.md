@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am ***Emre YILMAZ***, I am studying Information Security Technology.
+I am ***Emre YILMAZ***, I am an Information Security Technology Graduate.
 ### 🔭 My projects...
 
 [KernelBlog](http://kernelblog.org) <br>
