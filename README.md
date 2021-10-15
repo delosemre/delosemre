@@ -4,7 +4,8 @@ I am ***Emre YILMAZ***, I am an Information Security Technology Graduate.
 ### 🔭 My projects...
 
 [KernelBlog](http://kernelblog.org) <br>
-[SiberTool](https://sibertool.com)
+[SiberTool](https://sibertool.com) <br>
+[Dedektif kb](https://delosemre.github.io/dedektif-kb/)
 
 ###  📫 Social: ... 
 <center>
