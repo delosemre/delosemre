@@ -18,11 +18,7 @@ I am ***Emre YILMAZ***, I am an Information Security Technology Graduate.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/delosemre">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=delosemre&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delosemre&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delosemre&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delosemre&theme=dark&layout=compact)](https://github.com/delosemre)
 
 
