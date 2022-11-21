@@ -1,13 +1,37 @@
-## Hi 👋
+Hi 👋 My name is EMRE YILMAZ
+============================
 
-I am ***Emre YILMAZ***, I am an Information Security Technology Graduate. I am currently studying management information systems.
-### 🔭 My projects...
+Cyber Security Researcher
+-------------------------
 
-- [KernelBlog](http://kernelblog.org)
-- [SiberTool](https://sibertool.com)
-- [delosNmap](https://github.com/delosemre/delosNmap)
+*   🌍  I'm based in Giresun/Turkey
+*   🖥️  See my portfolio at [My Website](http://emreylmz.com)
+*   ✉️  You can contact me at [emre@emreylmz.com](mailto:emre@emreylmz.com)
+*   🧠  I'm learning PHP website coding
+*   🤝  I'm open to collaborating on Cyber Security, Wordpress
+*   🕸️  [KernelBlog](http://kernelblog.org) that I voluntarily author and co-founder <br><br>
+<a href="https://www.twitter.com/delosemre" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/delosemre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.github.com/delosemre" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/delosemre?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-###  📫 Social: ... 
-- <a href="https://www.twitter.com/delosemre"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue"></a> 
-- <a href="https://www.linkedin.com/in/delosemre/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue"></a>
+### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+                    
 
+### Socials
+                  
+<p align="left"> <a href="https://discord.com/users/delosemre#1277" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/delosemre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/delosemree" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/delosemre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/delosemre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/delosemre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/delosemre" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/delosemre"><img src="https://github-readme-stats.vercel.app/api?username=delosemre&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="delosemre's GitHub stats" /></a>
+
+<a href="https://github.com/delosemre" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delosemre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
