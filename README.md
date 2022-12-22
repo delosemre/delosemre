@@ -5,7 +5,7 @@ Cyber Security Researcher
 -------------------------
 
 *   🌍  I'm based in Giresun/Turkey
-*   🖥️  See my portfolio at [My Website](http://emreylmz.com)
+*   🖥️  [My Website](http://emreylmz.com)
 *   ✉️  You can contact me at [emre@emreylmz.com](mailto:emre@emreylmz.com)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Cyber Security, Wordpress
