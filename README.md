@@ -7,7 +7,7 @@ Cyber Security Researcher
 *   🌍  I'm based in Giresun/Turkey
 *   🖥️  [My Website](http://emreylmz.com)
 *   ✉️  You can contact me at [emre@emreylmz.com](mailto:emre@emreylmz.com)
-*   🧠  I'm learning Python
+*   🧠  I'm learning Python and Unity
 *   🤝  I'm open to collaborating on Cyber Security, Wordpress
 *   🕸️  [KernelBlog](http://kernelblog.org) that I voluntarily author and co-founder <br><br>
 <a href="https://www.twitter.com/delosemre" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/delosemre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
